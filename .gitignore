@@ -1,3 +1,5 @@
 venv/
 __pycache__/
 *.csv
+test_main.py
+log_errors.txt
