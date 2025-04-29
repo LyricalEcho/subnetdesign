@@ -48,3 +48,8 @@ Calculating...
 
 ✅ Subnet design complete.
 📄 CSV file saved at: /home/user/projects/subnetdesigner/outputs/vlsm_design_apr28.csv
+```
+
+
+## 👨‍💻 Author
+Built by LyricalEcho
